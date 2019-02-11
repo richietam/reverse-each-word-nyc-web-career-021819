@@ -3,4 +3,5 @@ def reverse_each_word(sentence)
     reversed = []
     arr1.each do |reverse|
       reversed.push()
+    end
 end
